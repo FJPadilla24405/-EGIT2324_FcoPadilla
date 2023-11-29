@@ -5,12 +5,12 @@ public class Persona {
 	// Atributos
 		private String nombre;
 		private int edad;
-		private String apellidos;
+		private String apellido;
 			
 	// Constructor
 	public Persona(String nombre, String apellidos, int edad) {
 		this.nombre = nombre;
-		this.apellidos = apellidos;
+		this.apellidos = apellido;
 		this.edad = edad;
 			
 	}
